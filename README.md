@@ -4,3 +4,6 @@
 ### Here you can save your details in the backend.
 ### Here I give some screenshots about my project----
 
+![Screenshot (2)](https://user-images.githubusercontent.com/43946793/114058145-d4fdc900-98b0-11eb-961f-5e3274c1fdb2.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/43946793/114058177-daf3aa00-98b0-11eb-8ae9-044c49e01692.png)
